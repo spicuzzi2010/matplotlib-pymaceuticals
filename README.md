@@ -17,24 +17,31 @@ The notebook also contains the following charts:
 
 A bar chart showing the total number of measurements taken on each drug regimen.
 
-![Employees Database ERD](./EmployeeSQL/Employees_db_ERD.png)
+![Measurement Bar Chart](./screenshots/Data_points_bar.png)
 
 ### Pie Chart
 
 A pie chart showing the distribution of female versus male mice.
 
+![Male vs. Female Pie Chart](./screenshots/male_vs_female_pie.png)
+
 ### Box Plot
 
 A box plot of the final tumor volume of each mouse across four regimens of interest.
+
+![Tumor Volume Box Plot](./screenshots/Box__plot.png)
 
 ### Line Chart
 
 A line plot of tumor volume vs. time point for a mouse treated with Capomulin.
 
+![Tumor Volume vs. Time Line Plot](./screenshots/Line_plot.png)
+
 ### Scatter Plot
 
 A Scatter plot for the mouse weight and average tumor volume for the Capomulin regimen with a linear regression line.
 
+![Scatter Plot](./screenshots/Scatter_with_linear_regression.png)
 
 ## Observations and insights
 
